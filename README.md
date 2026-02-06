@@ -11,4 +11,7 @@
   <li>Obesidade (Grau I, II, III)</li>
 </ul>
 
+![Calculadora IMC](https://github.com/bSonegheti/Calculadora-IMC/raw/main/Screenshot_1.png)
+![Print 2 com informações preenchidas](https://github.com/bSonegheti/Calculadora-IMC/raw/main/Screenshot_2.png)
+
 <p>Feito por Bernardo Sonegheti de Azevedo</p>
